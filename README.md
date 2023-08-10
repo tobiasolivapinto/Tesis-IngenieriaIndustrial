@@ -5,7 +5,7 @@
 
 ------------
 
-<img src="https://www2.ucc.edu.ar/portal2015/UniversidadCatolica/images/logo-ucc-2018.svg" alt="Imagen" width="400"> <img src="https://ecoinventos.com/wp-content/uploads/2017/04/pozos-canadienses-funcionamiento.png" alt="Imagen" width="400"> 
+<img src="https://www2.ucc.edu.ar/portal2015/UniversidadCatolica/images/logo-ucc-2018.svg" alt="Imagen" width="500"> <img src="https://ecoinventos.com/wp-content/uploads/2017/04/pozos-canadienses-funcionamiento.png" alt="Imagen" width="500"> 
 
 ------------
 
@@ -38,7 +38,7 @@ Como se mencionó anteriormente, el grupo fue conformado por tres compañeros, O
 
 #### Belen Ruival [Linkedin](https://www.linkedin.com/in/belen-ruival-387aa1213/)
 <div style="display: flex; align-items: center;">
-    <img src="https://www.linkedin.com/in/belen-ruival-387aa1213/overlay/photo/">
+    <img src="https://media.licdn.com/dms/image/D4D03AQEUs0hYFqP5qA/profile-displayphoto-shrink_800_800/0/1688754135050?e=1697068800&v=beta&t=i6AC_X04E2HylRADS1X9shuQFHoP4Soefnv88-H4t10">
     <p>
         ¡Hola! Soy Belen
     </p>
