@@ -30,7 +30,7 @@ Como se mencionó anteriormente, el grupo fue conformado por tres compañeros, O
 
 #### Oreste Scarafia [Linkedin](https://www.linkedin.com/in/oreste-scarafia-6062581ab/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/C4D03AQFvOUF_6rvBuQ/profile-displayphoto-shrink_800_800/0/1645467006736?e=1697068800&v=beta&t=P9MBfVq-V6Z7ApQZqlE05N-bVmVUFcT8mEA--4P1Ozg">
+    <img src="https://media.licdn.com/dms/image/C4D03AQFvOUF_6rvBuQ/profile-displayphoto-shrink_800_800/0/1645467006736?e=1697068800&v=beta&t=P9MBfVq-V6Z7ApQZqlE05N-bVmVUFcT8mEA--4P1Ozg" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
         ¡Hola! Soy Oreste
     </p>
@@ -38,7 +38,7 @@ Como se mencionó anteriormente, el grupo fue conformado por tres compañeros, O
 
 #### Belen Ruival [Linkedin](https://www.linkedin.com/in/belen-ruival-387aa1213/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQEUs0hYFqP5qA/profile-displayphoto-shrink_800_800/0/1688754135050?e=1697068800&v=beta&t=i6AC_X04E2HylRADS1X9shuQFHoP4Soefnv88-H4t10">
+    <img src="https://media.licdn.com/dms/image/D4D03AQEUs0hYFqP5qA/profile-displayphoto-shrink_800_800/0/1688754135050?e=1697068800&v=beta&t=i6AC_X04E2HylRADS1X9shuQFHoP4Soefnv88-H4t10" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
         ¡Hola! Soy Belen
     </p>
