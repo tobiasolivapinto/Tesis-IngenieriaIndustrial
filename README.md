@@ -5,11 +5,11 @@
 
 ------------
 
-<img src="https://www2.ucc.edu.ar/portal2015/UniversidadCatolica/images/logo-ucc-2018.svg" alt="Imagen" width="300"> <img src="https://ecoinventos.com/wp-content/uploads/2017/04/pozos-canadienses-funcionamiento.png" alt="Imagen" width="300"> 
+<img src="https://www2.ucc.edu.ar/portal2015/UniversidadCatolica/images/logo-ucc-2018.svg" alt="Imagen" width="400"> <img src="https://ecoinventos.com/wp-content/uploads/2017/04/pozos-canadienses-funcionamiento.png" alt="Imagen" width="400"> 
 
 ------------
 
-###Índice
+### Índice
 1. [Índice](#índice)
 2. [Introducción](#introducción)
 3. [Equipo](#equipo)
@@ -30,7 +30,7 @@ Como se mencionó anteriormente, el grupo fue conformado por tres compañeros, O
 
 #### Oreste Scarafia [Linkedin](https://www.linkedin.com/in/oreste-scarafia-6062581ab/)
 <div style="display: flex; align-items: center;">
-    <img src="1645467006736">
+    <img src="https://media.licdn.com/dms/image/C4D03AQFvOUF_6rvBuQ/profile-displayphoto-shrink_800_800/0/1645467006736?e=1697068800&v=beta&t=P9MBfVq-V6Z7ApQZqlE05N-bVmVUFcT8mEA--4P1Ozg">
     <p>
         ¡Hola! Soy Oreste
     </p>
@@ -38,7 +38,7 @@ Como se mencionó anteriormente, el grupo fue conformado por tres compañeros, O
 
 #### Belen Ruival [Linkedin](https://www.linkedin.com/in/belen-ruival-387aa1213/)
 <div style="display: flex; align-items: center;">
-    <img src="1688754135050">
+    <img src="https://www.linkedin.com/in/belen-ruival-387aa1213/overlay/photo/">
     <p>
         ¡Hola! Soy Belen
     </p>
