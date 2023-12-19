@@ -46,7 +46,7 @@ Como se mencionó anteriormente, el grupo fue conformado por tres compañeros, O
 
 #### Tobias Oliva Pinto [Linkedin](https://www.linkedin.com/in/olivapintotobias/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQHOo19d5aSn0A/profile-displayphoto-shrink_800_800/0/1687974921520?e=1694044800&v=beta&t=iOkiAK7xkoaArzy-e_BEmHQhquDcNcIfqy97K3qYwfA" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHOo19d5aSn0A/profile-displayphoto-shrink_800_800/0/1687974923153?e=1708560000&v=beta&t=Z9kIqXMqqq6Cl3o9xifwTFNIww2k52aj9CB5dy2X0PY" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
         ¡Hola! Soy Tobías, un Ingeniero Industrial y Data Scientist de 25 años, nacido y criado en Córdoba, Argentina. Actualmente ejerzo como Data Analyst en la industria química, tras una etapa en el área de higiene y seguridad. Combino habilidades técnicas con visión práctica para descubrir el porqué de las cosas. Me considero una persona curiosa y entusiasta del trabajo en equipo, pero sobre todo un apasionado del deporte y un ávido viajero.
     </p>
